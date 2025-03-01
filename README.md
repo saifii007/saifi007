@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.21kschool.com/id/wp-content/uploads/sites/21/2023/07/Coding.png" alt="Banner Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Saif ur Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
